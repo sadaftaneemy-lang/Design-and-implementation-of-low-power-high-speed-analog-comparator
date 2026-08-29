@@ -27,7 +27,11 @@ Fig. 1 shows the schematic symbol of the comparator. Fig. 2 shows its ideal tran
 as if the Vp is at a potential less than the Vn , the output of the comparator is at logic 0. 
 
 
-If Vp > Vn , then Vo= logic 1 and If Vp < Vn , then Vo= logic 0. Thus a comparator compares two input analog value and gives binary output. In ideal case, binary signals can have two values at any point. But actually there is a transition region between the two binary states. It is important for the comparator to pass quickly through the transition region of the analog signal. The presentation on comparators will first examine the requirements and characterization of comparators. It will be seen that comparators can be divided into open-loop and regenerative comparators. The open-loop comparators are basically op-amps without compensation. Regenerative comparators use positive feedback, similar to sense amplifiers or flip-flops, to accomplish the comparison of the magnitude between two signals. A third type of comparator emerges that is a combination of the open-loop and regenerative comparators. This combination results in comparators that are extremely fast.
+If Vp > Vn , then Vo= logic 1 and If Vp < Vn , then Vo= logic 0. Thus a comparator compares two input analog value and gives binary output. In ideal case, binary signals can have two values at any point. But actually there is a transition region between the two binary states. It is important for the comparator to pass quickly through the transition region of the analog signal. 
+
+The presentation on comparators will first examine the requirements and characterization of comparators. It will be seen that comparators can be divided into open-loop and regenerative comparators. The open-loop comparators are basically op-amps without compensation. Regenerative comparators use positive feedback, similar to sense amplifiers or flip-flops, to accomplish the comparison of the magnitude between two signals. 
+
+A third type of comparator emerges that is a combination of the open-loop and regenerative comparators. This combination results in comparators that are extremely fast.
 
 
 
