@@ -12,8 +12,9 @@ nanoscale technologies.
 The results validate that the designed comparator is well-suited for use in high-speed ADCs, memory circuits, and portable low-power electronic systems. The work 
 highlights the effectiveness of 45 nm CMOS technology in achieving superior performance for analog circuit design, emphasizing its relevance in the development of next-generation, low power mixed-signal integrated systems.  
 
+## Basics of Comparator
 
-
+<img width="233" height="168" alt="image" src="https://github.com/user-attachments/assets/15962b2c-4fc4-40b2-a42d-6a4ef87bd8f6" />
 
 
 
