@@ -19,7 +19,8 @@ outputs a binary signal based on the comparison.
 
 <img width="233" height="168" alt="image" src="https://github.com/user-attachments/assets/15962b2c-4fc4-40b2-a42d-6a4ef87bd8f6" />
 
-
+Fig. 1 shows the schematic symbol of the comparator. Fig. 2 shows its ideal transfer characteristics. VP is the input voltage (Pulse voltage) applied to the positive input terminal of comparator and Vn is the reference voltage (constant DC voltage) applied to the negative terminal of comparator. Now if Vp , the input of the comparator is at a greater potential than the Vn, the reference voltage, then the output of the comparator is a logic 1, where 
+as if the Vp is at a potential less than the Vn , the output of the comparator is at logic 0. 
 
 
 
