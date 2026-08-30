@@ -41,6 +41,6 @@ A third type of comparator emerges that is a combination of the open-loop and re
   
  ◆ Symbol creation
   
-  Virtuoso Analog Design Environment
+ ◆ Virtuoso Analog Design Environment
 
 
