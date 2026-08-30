@@ -37,7 +37,7 @@ A third type of comparator emerges that is a combination of the open-loop and re
 
  ◆ Cadence Virtuoso
   
-  Schematic editor
+ ◆ Schematic editor
   
   Symbol creation
   
