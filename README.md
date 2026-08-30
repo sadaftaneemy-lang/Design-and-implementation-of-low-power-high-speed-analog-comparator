@@ -33,7 +33,7 @@ The presentation on comparators will first examine the requirements and characte
 
 A third type of comparator emerges that is a combination of the open-loop and regenerative comparators. This combination results in comparators that are extremely fast.
 
-
+## Software used
 
 
 
