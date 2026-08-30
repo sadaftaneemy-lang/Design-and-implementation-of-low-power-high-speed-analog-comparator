@@ -36,8 +36,11 @@ A third type of comparator emerges that is a combination of the open-loop and re
 ## 💻Software used
 
   Cadence Virtuoso
+  
   Schematic editor
+  
   Symbol creation
+  
   Virtuoso Analog Design Environment
 
 
