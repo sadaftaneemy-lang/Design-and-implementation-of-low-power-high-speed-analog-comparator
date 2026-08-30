@@ -38,6 +38,6 @@ A third type of comparator emerges that is a combination of the open-loop and re
   Cadence Virtuoso
   Schematic editor
   Symbol creation
-  Virtuoso Analog D Environment
+  Virtuoso Analog Design Environment
 
 
