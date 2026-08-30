@@ -39,7 +39,7 @@ A third type of comparator emerges that is a combination of the open-loop and re
   
  ◆ Schematic editor
   
-  Symbol creation
+ ◆ Symbol creation
   
   Virtuoso Analog Design Environment
 
