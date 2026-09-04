@@ -47,7 +47,6 @@ A third type of comparator emerges that is a combination of the open-loop and re
 The design and analysis of the low-power, high-speed analog comparator were carried out using Cadence Virtuoso, which provides a complete environment for analog circuit development. The process began by creating a new library and attaching the required CMOS technology file (PDK). This ensured that the transistor 
 models and design rules used in the project were accurate and suitable for simulation. 
 
-
 The comparator circuit was then designed at the transistor level using the Virtuoso Schematic Editor. MOSFETs, biasing components, and reference nodes were selected from the technology library and connected according to the comparator architecture. Basic transistor sizing and bias conditions were chosen from theoretical calculations to ensure proper operation during reset and comparison phases.
 
 ## CONVENTIONAL SINGLE TAIL COMPARATOR
