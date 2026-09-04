@@ -53,7 +53,8 @@ The comparator circuit was then designed at the transistor level using the Virtu
 ## CONVENTIONAL SINGLE TAIL COMPARATOR
 
 The conventional dynamic comparator is also called as conventional Single Tail Comparator. They are widely used in A/D converters, with high input impedance, rail to-rail output swing, and no static power consumption. 
-It includes two modes of operation: Reset Phase and Comparison phase. Block diagram shows the operation of 
+
+**It includes two modes of operation :** Reset Phase and Comparison phase. Block diagram shows the operation of 
 the comparator. Figure 3 shows the operation of a conventional single-tail comparator. In the reset phase (CLK 
 = 0), the tail transistor is OFF and output nodes are precharged.M7 and M8 pull the internal nodes to a fixed 
 level. When CLK goes high, the comparison phase begins. The tail transistor turns ON, and the input difference 
