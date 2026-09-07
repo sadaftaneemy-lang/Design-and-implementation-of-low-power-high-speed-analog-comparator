@@ -18,7 +18,6 @@ outputs a binary signal based on the comparison.
 
 <img width="568" height="393" alt="image" src="https://github.com/user-attachments/assets/58034905-3d3a-4650-a79d-c67a06191319" />
 
-
 <img width="732" height="387" alt="image" src="https://github.com/user-attachments/assets/eb56c390-f58c-4916-9df0-2335bde4f5f3" />
 
 
