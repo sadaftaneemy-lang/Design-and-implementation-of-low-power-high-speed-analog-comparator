@@ -13,8 +13,7 @@ highlights the effectiveness of 45 nm CMOS technology in achieving superior perf
 
 ## Basics of Comparator
 
-The comparator is a circuit that compares an analog signal with another analog signal or reference and 
-outputs a binary signal based on the comparison. 
+The comparator is a circuit that compares an analog signal with another analog signal or reference and outputs a binary signal based on the comparison. 
 
 <img width="568" height="393" alt="image" src="https://github.com/user-attachments/assets/58034905-3d3a-4650-a79d-c67a06191319" />
 
