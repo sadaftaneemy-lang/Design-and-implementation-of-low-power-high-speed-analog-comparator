@@ -1,7 +1,6 @@
 # Design-and-implementation-of-low-power-high-speed-analog-comparator
 
-The increasing demand for high-speed and energy-efficient integrated circuits has made the design of analog comparators a key area of focus in modern VLSI systems. 
-An analog comparator is an essential building block used in Analog-to-Digital Converters (ADCs), signal processing circuits, and communication systems, where it performs critical decision-making based on analog signal comparison. 
+The increasing demand for high-speed and energy-efficient integrated circuits has made the design of analog comparators a key area of focus in modern VLSI systems. An analog comparator is an essential building block used in Analog-to-Digital Converters (ADCs), signal processing circuits, and communication systems, where it performs critical decision-making based on analog signal comparison. 
 
 This project involves the design and implementation of a low-power, high-speed analog comparator using 45 nm CMOS technology, with the objective of 
 achieving a balance between speed, power efficiency, and accuracy. The comparator circuit is implemented using a pre-amplifier stage followed by a regenerative latch, ensuring fast operation with low static power consumption. The design was modeled and simulated using Cadence Virtuoso with 45 nm CMOS process parameters. 
