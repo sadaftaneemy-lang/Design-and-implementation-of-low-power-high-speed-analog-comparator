@@ -57,7 +57,9 @@ The tail transistor turns ON, and the input difference discharges one node faste
 
 ## Schematic 
 
-The figure 4 schematic represents the complete transistor-level implementation of the conventional single-tail dynamic comparator designed in Cadence Virtuoso Schematic Editor using 45nm CMOS technology.The circuit follows the classic StrongARM latch architecture, which has become the industry standard for high
+The figure 4 schematic represents the complete transistor-level implementation of the conventional single-tail dynamic comparator designed in Cadence Virtuoso Schematic Editor using 45nm CMOS technology.
+
+The circuit follows the classic StrongARM latch architecture, which has become the industry standard for high
 speed, low-power dynamic comparison applications. The schematic clearly illustrates the fundamental building blocks: a differential input pair consisting
 
 
