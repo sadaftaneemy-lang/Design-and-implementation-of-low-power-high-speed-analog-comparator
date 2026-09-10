@@ -55,7 +55,7 @@ The tail transistor turns ON, and the input difference discharges one node faste
 
 <img width="631" height="551" alt="image" src="https://github.com/user-attachments/assets/408a6583-b8ce-4e1b-820d-368ee436c81a" />
 
-
+## Schematic 
 
 
 
