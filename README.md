@@ -60,9 +60,7 @@ The figure 4 schematic represents the complete transistor-level implementation o
 
 The schematic clearly illustrates the fundamental building blocks: 
 
-a differential input pair consisting of matched NMOS transistors that perform initial voltage comparison,
-
-cross-coupled PMOS load transistors providing positive feedback for regenerative amplification, cross-coupled NMOS latch transistors that lock decisions and generate full-swing digital outputs, a single tail NMOS transistor dynamically controlling the comparison phase, 
+a differential input pair consisting of matched NMOS transistors that perform initial voltage comparison, cross-coupled PMOS load transistors providing positive feedback for regenerative amplification, cross-coupled NMOS latch transistors that lock decisions and generate full-swing digital outputs, a single tail NMOS transistor dynamically controlling the comparison phase, 
 
 and clock-controlled PMOS reset transistors that precharge internal nodes during reset phase. 
 
